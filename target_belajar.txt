@@ -1,2 +1,4 @@
 senin : belajarbootstrap, git
 selasa : sim
+rabu : pembrograman berbasis object
+kamis : GNS 3
