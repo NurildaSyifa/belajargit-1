@@ -1,4 +1,5 @@
-senin : belajarbootstrap, git
+senin : git
 selasa : sim
-rabu : pembrograman berbasis object
+
 kamis : GNS 3
+jumat : trager GB
